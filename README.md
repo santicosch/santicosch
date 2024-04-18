@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **santicosch/santicosch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hello World! 👋🇺🇸
+I'm Lucas Santiago Corco Schnake, but I prefer to be called Santiago or Santi 😃. I was born in Santiago, Chile 🇨🇱. My native language is Spanish and I also speak English fluently. I love drinking mate🧉 while I'm coding. I studied Computer Science at Universidad Tecnológica Metropolitana de Chile🔭. I'm a Software Developer Engineer Jr. Full Stack | React | Typescript | Node | Express. I'm currently looking for job 🤔.
+
+### Hola Mundo! 👋🇪🇸🇨🇱
+Soy Lucas Santiago Corco Schnake, pero prefiero que me llamen Santiago o Santi 😃. Naci en Santiago, Chile 🇨🇱. El Español es mi lengua nativa y tambien hablo Ingles de manera fluida. Amo tomar mate🧉 cuando estoy programando. Estudie Ingeniería Civil en Computación mención Informática en la Universidad Tecnológica Metropolitana de Chile🔭. Soy un Ingeniero de Software Jr. Full Stack | React | Typescript | Node | Express. Me encuentro buscando trabajo 🤔.
